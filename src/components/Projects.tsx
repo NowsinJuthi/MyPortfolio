@@ -152,7 +152,9 @@ export default function Projects() {
                     </a>
                   ) : (
                     <span className="inline-flex items-center gap-2 rounded-xl border border-white/[0.06] px-4 py-3 text-sm text-zinc-500">
-                      <Github size={16} />
+                      <span className="text-sm font-bold" aria-hidden="true">
+                        GH
+                      </span>
                       GitHub pending
                     </span>
                   )}
