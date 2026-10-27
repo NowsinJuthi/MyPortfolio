@@ -29,30 +29,6 @@ This is my personal developer portfolio, designed to present my work and develop
 - **Icons:** Lucide React
 - **Development Tools:** Git, GitHub, npm
 
-## 📂 Project Structure
-
-```text
-my-portfolio/
-├── public/
-├── src/
-│   ├── app/
-│   │   ├── page.tsx
-│   │   ├── layout.tsx
-│   │   └── globals.css
-│   ├── components/
-│   │   ├── About.tsx
-│   │   ├── Skills.tsx
-│   │   ├── Projects.tsx
-│   │   ├── Experience.tsx
-│   │   └── Contact.tsx
-│   └── data/
-│       └── portfolio.ts
-├── package.json
-└── README.md
-```
-
-*Note: The structure above represents the main files used in this portfolio; your actual project may contain additional files.*
-
 ## ⚙️ Getting Started
 
 Follow these steps to run the project locally.
