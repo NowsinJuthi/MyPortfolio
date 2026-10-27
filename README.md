@@ -1,36 +1,127 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ✨ Personal Portfolio — Nowsin Saiwara Juthi
 
-## Getting Started
+Welcome to my personal portfolio! 👋
 
-First, run the development server:
+I'm **Nowsin Saiwara Juthi**, a Junior MERN Stack Developer from Dhaka, Bangladesh. I enjoy building modern, responsive, and user-friendly web applications using contemporary web technologies.
+
+This portfolio showcases my projects, technical skills, experience, and journey as a developer.
+
+## 🚀 About the Project
+
+This is my personal developer portfolio, designed to present my work and development skills in a clean, modern, and interactive interface.
+
+### ✨ Features
+
+- 🎨 Modern and visually appealing UI
+- 📱 Responsive design for mobile, tablet, and desktop
+- 💼 Dedicated projects showcase
+- 🛠️ Technical skills section
+- 👩‍💻 About me and experience sections
+- 📬 Contact section
+- 🌈 Gradient effects and interactive hover animations
+- ⚡ Fast performance powered by Next.js
+
+## 🛠️ Technologies Used
+
+- **Framework:** Next.js
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **Development Tools:** Git, GitHub, npm
+
+## 📂 Project Structure
+
+```text
+my-portfolio/
+├── public/
+├── src/
+│   ├── app/
+│   │   ├── page.tsx
+│   │   ├── layout.tsx
+│   │   └── globals.css
+│   ├── components/
+│   │   ├── About.tsx
+│   │   ├── Skills.tsx
+│   │   ├── Projects.tsx
+│   │   ├── Experience.tsx
+│   │   └── Contact.tsx
+│   └── data/
+│       └── portfolio.ts
+├── package.json
+└── README.md
+```
+
+*Note: The structure above represents the main files used in this portfolio; your actual project may contain additional files.*
+
+## ⚙️ Getting Started
+
+Follow these steps to run the project locally.
+
+### Prerequisites
+
+Make sure you have installed:
+
+- [Node.js](https://nodejs.org/)
+- npm
+- Git
+
+### Installation
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/NowsinJuthi/my-portfolio.git
+```
+
+**2. Navigate to the project directory**
+
+```bash
+cd my-portfolio
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**5. Open in your browser**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Visit [http://localhost:3000](http://localhost:3000).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧩 Customization
 
-## Learn More
+Portfolio content is organized in:
 
-To learn more about Next.js, take a look at the following resources:
+```text
+src/data/portfolio.ts
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+You can update your personal information, projects, skills, experience, and contact details in this file, depending on how each section is configured.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🌐 Connect With Me
 
-## Deploy on Vercel
+- **GitHub:** [@NowsinJuthi](https://github.com/NowsinJuthi)
+- **LinkedIn:** [Connect with me](https://linkedin.com/nowsinjuthi)
+- **Email:** [nowsinjuthi@gmail.com](mailto:nowsinjuthi@gmail.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎯 My Goal
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+My goal is to continue improving my development skills, build meaningful web applications, and grow as a full-stack developer.
+
+I'm always eager to learn new technologies, solve problems, and collaborate on exciting projects.
+
+## ⭐ Support
+
+If you find this project interesting, feel free to explore the repository and leave a star!
+
+---
+
+**Built with ❤️ by Nowsin Saiwara Juthi**
+
