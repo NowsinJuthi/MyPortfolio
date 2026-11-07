@@ -65,6 +65,14 @@ export const portfolio = {
       github: "https://github.com/NowsinJuthi/UniQbd-App",
     },
     {
+      title: "Ranna — Recipe & Food App",
+      category: "Flutter Mobile Application",
+      description:
+        "Developed a recipe and food application using Flutter and Firebase. Built the mobile application using Android Studio with a focus on a user-friendly experience.",
+      technologies: ["Flutter", "Dart", "Firebase", "Android Studio"],
+      github: "https://github.com/NowsinJuthi/Ranna",
+    },
+    {
       title: "Movie Server",
       category: "Movie Management Application",
       description: "A movie-focused web application designed to organize and present movie-related content with a smooth browsing experience.",
